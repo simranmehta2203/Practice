@@ -1,2 +1,55 @@
-# Practice
-I practiced this program
+<html>
+<head>
+<title>
+SIMRAN MEHTA (206)
+</title>
+</head>
+<h1><b>
+<center><u>Practice<b>
+<table style="width:100%">
+<tr>
+<th>S.NO.:</th>
+<th>Firstname</th>
+<th>Lastname</th>
+<th>MARKS</th>
+<th>DEPARTMENT</th>
+</tr>
+<tr>
+<th>1</th>
+<td>SIMRAN</td>
+<td>MEHTA</td>
+<td>9/10</td>
+<td>FET</td>
+</tr>
+<tr>
+<th>2</th>
+<td>SHWETA</td>
+<td>SINGH</td>
+<td>8/10</td>
+<td>FET</td>
+</tr>
+<tr>
+<th>3</th>
+<td>VIKAS</td>
+<td>SHARMA</td>
+<td>7/10</td>
+<td>FET</td>
+</tr>
+<tr>
+<th>4</th>
+<td>NISHIT</td>
+<td>VATS</td>
+<td>2/10</td>
+<td>FET</td>
+</tr>
+<tr>
+<th>5</th>
+<td>KAMLESH</td>
+<td>SHARMA</td>
+<td>5/10</td>
+<td>FET</td>
+</tr>
+</table>
+</body>
+</head>
+</html>
